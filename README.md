@@ -1,0 +1,1 @@
+# Template para aplicações NodeJS com TypeScript
